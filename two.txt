@@ -1,2 +1,6 @@
 Two - 2
+<<<<<<< HEAD
 bijlu
+=======
+JAHAN
+>>>>>>> development
